@@ -1,0 +1,26 @@
+{
+  "reminders": [
+    {
+      "id": "b6720303-be01-4681-942f-b1b340bb5569",
+      "title": "Gym",
+      "description": "something",
+      "date": "2024-09-15T11:13:00.000Z",
+      "notified": true
+    },
+    {
+      "id": "6816d749-8937-498a-91f5-b7c812e76c78",
+      "title": "ABCD",
+      "description": "Plocha v metrech čtverečních",
+      "date": "2024-09-15T11:27:00.000Z",
+      "notified": true
+    }
+  ],
+  "subscription": {
+    "endpoint": "https://fcm.googleapis.com/fcm/send/crPwLf0x5dk:APA91bFtX-t0FB4Qd3UarVGkLVjwjQ6N0bAbBTX0BR0BS3rOCSiNaxEu3Irc0hSYfmoDarNAUHjf_2YTXzJU8-J-KM1rc_sDkjkJY2ENu-m5MGB0BHY0gjPSREhhQuQtLXysHbJ5D-n6",
+    "expirationTime": null,
+    "keys": {
+      "p256dh": "BDNRH2wg4YCL-MJaobbMWqaFcMWsMvaMuUJG7n02LOQBT18I5RywPMBc40IWTbb19b7wiqlDzZyZRCgmsjm9pEw",
+      "auth": "qfF5pyKQqdqq9-jRMwfccA"
+    }
+  }
+}
